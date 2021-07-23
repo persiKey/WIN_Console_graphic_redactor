@@ -3,3 +3,4 @@ Console graphic redactor.vcxproj.filters
 Console graphic redactor.vcxproj.user
 /Debug
 /Release
+/build
